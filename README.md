@@ -1,26 +1,26 @@
 ### 🏯 Contents 🏯
 
-<a><img src="https://i.pinimg.com/originals/31/26/51/3126516d77b2f81eb31c088f605b2378.gif" width="30%" height="40%" title="🙂" align="right"></a>
+<a><img src="https://i.pinimg.com/originals/42/4b/e8/424be84e5ba9c497650a99faaf6e684f.gif" width="50%" height="40%" title="🙂" align="right"></a>
 <br/><br/>
 
 - <b>[GRUB Themes](#previews)</b>
-   - [Ver. 1](#1.)
-   - [Ver. 2](#2.)
-   - [Eng ver. 2](#eng2)
+   - [Ver. 1](#1)
+   - [Ver. 2](#2)
+
 
 - <b>[🔧 Installation](#installation)</b>
-  - [First method](#1.)
-  - [Second method (wip script, soon)](#2)
+  - [First method]()
+  - [Second method (wip script, soon)]()
 
 
 ## Installation
-##1.
-<a><img src="https://i.pinimg.com/originals/2c/0e/de/2c0ede6151436eeaf2f96ccfa6decf89.gif" width="30%" height="30%" title="🙂" align="right"></a>
+
+<a><img src="https://i.pinimg.com/originals/20/70/b9/2070b9572e412ba394cb6bc14950d0e6.gif" width="25%" height="30%" title="🙂" align="right"></a>
 - Open your terminal
-- Copy the repository and unzip
+- Copy the repository or unzip
 
 ```
-    https://github.com/Zerabalus/Video-Games-Grub-Themes.git
+    https://github.com/Zerabalus/Ghost-of-Tsushima-GRUB
 ```
 
 - cd to where you copied it, on your terminal:
@@ -49,3 +49,14 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 reboot
 ```
 
+
+# Previews
+#  Ver. 1
+<div align="center" style="display:inline">
+<img alt="1 preview" src="img/v1.png" width="1016px" />
+</div>
+
+#  Ver. 2
+<div align="center" style="display:inline">
+<img alt="2 preview" src="img/v2.png" width="1016px" />
+</div>
