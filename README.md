@@ -4,8 +4,8 @@
 <br/><br/>
 
 - <b>[GRUB Themes](#previews)</b>
-   - [Ver. 1](#1)
-   - [Ver. 2](#2)
+   - [Ver. 1](#ver-1)
+   - [Ver. 2](#ver-2)
 
 
 - <b>[🔧 Installation](#installation)</b>
@@ -15,7 +15,7 @@
 
 ## Installation
 
-<a><img src="https://i.pinimg.com/originals/20/70/b9/2070b9572e412ba394cb6bc14950d0e6.gif" width="25%" height="30%" title="🙂" align="right"></a>
+<a><img src="https://i.pinimg.com/originals/20/70/b9/2070b9572e412ba394cb6bc14950d0e6.gif" width="30%" height="30%" title="🙂" align="right"></a>
 - Open your terminal
 - Copy the repository or unzip
 
@@ -51,12 +51,14 @@ reboot
 
 
 # Previews
-#  Ver. 1
+<a id="ver-1"></a>
+# Ver. 1
 <div align="center" style="display:inline">
 <img alt="1 preview" src="img/v1.png" width="1016px" />
 </div>
 
-#  Ver. 2
+<a id="ver-2"></a>
+# Ver. 2
 <div align="center" style="display:inline">
 <img alt="2 preview" src="img/v2.png" width="1016px" />
 </div>
